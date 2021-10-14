@@ -78,6 +78,31 @@ $commentaireC = $commentaire1->afficherCommentaire();
               Categories </a>
 
           </li>
+          <li>
+                        <a href="modifier.html"><i class="fa fa-edit fa-3x"></i> modifier un évenements </a>
+                    </li>
+                    <li>
+                        <a href="participants.html"><i class="fa fa-edit fa-3x"></i> afficher les participants </a>
+                    </li>
+
+
+                    <li>
+                        <a href="#"><i class="fa fa-sitemap fa-3x"></i> manage events<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li>
+
+                                <a href="ajouter un evenement.html">ajouter un évenement</a>
+                            </li>
+                            <li>
+                                <a href="suprimer un evenement.html">supprimer un évenement</a>
+                            </li>
+                            <li>
+                                <a href="chercher un evenement.html">chercher un évenement</a>
+                            </li>
+
+
+
+
       </div>
     </nav>
     <!-- /. NAV SIDE  -->

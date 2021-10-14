@@ -40,28 +40,50 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="#" class="btn btn-d
 				
 					
                     
-                    <li  >
-                        <a class="active-menu"  href="modifier.php"><i class="fa fa-edit fa-3x"></i> modifier les evenements </a>
-                    </li>				
-					
-					                   
+                    <li>
+            <a href="index.html"><i class="fa fa-dashboard fa-2x"></i> Dashboard</a>
+          </li>
+
+          <li>
+            <a href="rdreviews.php"><i class="fa fa-qrcode fa-2x"></i>Reviews</a>
+          </li>
+          <li>
+            <a href="chart.php"><i class="fa fa-bar-chart-o fa-2x"></i> Stat/Rate</a>
+          </li>
+
+          <li>
+            <a href="addrecipe.php"><i class=" fa fa-edit fa  fa-2x  "></i>
+              Recipes </a>
+
+
+          </li>
+          <li>
+            <a href="addcategories.html"><i class=" fa fa-edit fa-2x "></i>
+              Categories </a>
+
+          </li>
+          <li>
+                        <a href="modifier.html"><i class="fa fa-edit fa-3x"></i> modifier un évenements </a>
+                    </li>
+                    <li>
+                        <a href="participants.html"><i class="fa fa-edit fa-3x"></i> afficher les participants </a>
+                    </li>
+
+
                     <li>
                         <a href="#"><i class="fa fa-sitemap fa-3x"></i> manage events<span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li>
-                                
-                                <a href="ajouter un evenement.php">ajouter un évenement</a>
+
+                                <a href="ajouter un evenement.html">ajouter un évenement</a>
                             </li>
                             <li>
                                 <a href="suprimer un evenement.html">supprimer un évenement</a>
                             </li>
                             <li>
-                                <a href="chercher un evenement.php">chercher un évenement</a>
+                                <a href="chercher un evenement.html">chercher un évenement</a>
                             </li>
-                        </ul>
-                      </li>  
-                  	
-                </ul>
+
                
             </div>
             
